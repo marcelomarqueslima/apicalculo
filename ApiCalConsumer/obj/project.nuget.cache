@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0Zvwmu3/eTg7fcgj2/8zWofZVUps5X8XoCmX9Nds8n4mmBwZrfWSFi4QDNbGtHgOuA2TFOIfUSxkuX03TKF5dA==",
+  "dgSpecHash": "t3aCMsUx5mkM3K+MBcDQ3X1KePd52skNb0vqgrSlqwsrpIs/wRiLhfYgH/z9QTi1eDqPwll7g5MxiBC0lJhBVg==",
   "success": true,
   "projectFilePath": "C:\\Dev\\apicalculo\\ApiCalConsumer\\ApiCalConsumer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

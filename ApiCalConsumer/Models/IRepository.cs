@@ -7,6 +7,6 @@ namespace ApiCalConsumer.Models
 {
     public interface IRepository
     {
-        decimal Calcular(decimal Values);
+        string Calculation();
     }
 }
