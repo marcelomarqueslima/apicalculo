@@ -9,7 +9,7 @@ namespace ApiCalConsumer.Models
 {
     public class Investment : Notifiable
     {
-        public Investment(double valuesInit, int month, decimal juros)
+        public Investment(double valuesInit, int month, double juros)
         {
             ValuesInit = valuesInit;
             Month = month;
@@ -24,6 +24,6 @@ namespace ApiCalConsumer.Models
         }
         public double ValuesInit { get; set; }
         public int Month { get; set; }
-        public decimal Juros { get; set; }
+        public double Juros { get; set; }
     }
 }

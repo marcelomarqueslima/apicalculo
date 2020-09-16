@@ -36,3 +36,7 @@ C:\Dev\apicalculo\ApiCalConsumer\obj\Debug\netcoreapp3.1\staticwebassets\ApiCalC
 C:\Dev\apicalculo\ApiCalConsumer\obj\Debug\netcoreapp3.1\ApiCalConsumer.dll
 C:\Dev\apicalculo\ApiCalConsumer\obj\Debug\netcoreapp3.1\ApiCalConsumer.pdb
 C:\Dev\apicalculo\ApiCalConsumer\obj\Debug\netcoreapp3.1\ApiCalConsumer.genruntimeconfig.cache
+C:\Dev\apicalculo\ApiCalConsumer\obj\Debug\netcoreapp3.1\ApiCalConsumer.csproj.CoreCompileInputs.cache
+C:\Dev\apicalculo\ApiCalConsumer\obj\Debug\netcoreapp3.1\ApiCalConsumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\apicalculo\ApiCalConsumer\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Dev\apicalculo\ApiCalConsumer\obj\Debug\netcoreapp3.1\ApiCalConsumer.csproj.CopyComplete
