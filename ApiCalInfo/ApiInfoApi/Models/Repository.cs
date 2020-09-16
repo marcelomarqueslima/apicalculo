@@ -10,7 +10,7 @@ namespace ApiInfoApi.Models
 
         public Repository()
         {
-            AddReserva(new TaxaJuros { Id = 1, Juros = 0.01 });
+            AddReserva(new TaxaJuros { Juros = 0.01 });
         }
 
         public TaxaJuros AddReserva(TaxaJuros item)
@@ -19,7 +19,6 @@ namespace ApiInfoApi.Models
             {
                 throw new ArgumentNullException("item");
             }
-            item.Id = _nextId++;
             juros.Add(item);
             return item;
         }

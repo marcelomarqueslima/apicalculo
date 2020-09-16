@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\apicalculo\\ApiCalConsumer\\ApiCalConsumer\\ApiCalConsumer.csproj",
+      "projectUniqueName": "C:\\Dev\\apicalculo\\ApiCalConsumer\\ApiCalConsumer.csproj",
       "projectName": "ApiCalConsumer",
-      "projectPath": "C:\\Dev\\apicalculo\\ApiCalConsumer\\ApiCalConsumer\\ApiCalConsumer.csproj",
+      "projectPath": "C:\\Dev\\apicalculo\\ApiCalConsumer\\ApiCalConsumer.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\apicalculo\\ApiCalConsumer\\ApiCalConsumer\\obj\\",
+      "outputPath": "C:\\Dev\\apicalculo\\ApiCalConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
